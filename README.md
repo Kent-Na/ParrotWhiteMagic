@@ -1,2 +1,2 @@
-# PorrotWhiteMagic
+# ParrotWhiteMagic
 Make HDL better.
